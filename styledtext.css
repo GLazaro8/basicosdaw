@@ -1,0 +1,17 @@
+/********************************/
+/* estilo para styledtext.html  */
+/* autor: Gonzalo Lázaro        */
+/* versión: 1.0                 */
+/********************************/
+
+
+/* selectores de etiqueta*/
+body {background-color: black;
+    color: whitesmoke}
+h2 {color: salmon}
+/* selector de id, único */
+#encabezadop1 {text-align: right;}
+/* selector de class, colectivo */
+.centrado {text-align: center;}
+/* selector contextual, añade contexto, mas de un selector separado con espacios  */
+.centrado b {color:red}
